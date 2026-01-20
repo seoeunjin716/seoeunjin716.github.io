@@ -3,6 +3,40 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# About Me
+## 환경 연구자에서 ESG 전략가로
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+저는 지속가능한 미래를 설계하는 ESG·탄소중립 전문가입니다.
+박사 과정 동안 바이오차 기반 탄소 포집·저장(CCUS) 연구를 진행하며, 음식물폐기물과 고염도 부산물에서 생산한 바이오차가 65~89%의 탄소를 장기적으로 고정할 수 있음을 밝혀냈습니다. 이러한 실험은 단순한 학문을 넘어, 기업이 실제로 적용할 수 있는 탄소감축 솔루션이라는 점에서 의미가 큽니다.
+
+## 연구에서 실무로
+박사 졸업 후에는 지방정부의 탄소중립 전략 수립과 온실가스 감축 로드맵 마련 업무를 수행했습니다.
+
+- 인천시 및 기초지자체의 Scope 1·2·3 배출량 분석
+- 국가 탄소중립 계획을 벤치마킹해 맞춤형 감축 시나리오 제안
+- 이 과정에서 다양한 이해관계자와 협의하며 정책-데이터-현장을 잇는 커뮤니케이션 능력을 쌓았습니다.
+
+## 기업 ESG 적용 가능성
+이제는 연구와 공공 부문에서의 경험을 기업 ESG 전략으로 확장하고 있습니다.
+
+- 지속가능경영 보고서 작성(GRI·SASB·TCFD·ISSB 기준)
+- ESG 등급 관리 및 CDP 대응 시뮬레이션
+- RE100 및 재생에너지 전환 전략 아이디어 제시
+
+## 기술 역량 강화 & 미래 준비
+
+- AI 기반 개발자 과정 수강: ESG·탄소중립 데이터 분석 및 솔루션 개발 역량 강화
+- LCA(전과정평가) 준비: 제품·정책·프로젝트의 환경영향 평가 및 지속가능성 전략 설계
+
+과학적 데이터와 경영 전략을 결합해, 기업이 실질적으로 탄소를 줄이고 글로벌 규제에 선제 대응하도록 돕는 것이 저의 목표이자 목적입니다.
+
+## 제 비전
+ESG는 단순히 보고서를 작성하는 업무가 아니라, 기업 가치와 사회적 책임을 동시에 실현하는 경영 철학입니다.
+저는 데이터 기반 분석력, 문제 해결력, 그리고 다양한 이해관계자와의 원활한 소통을 무기로,
+"지속가능성과 수익성을 함께 높이는 ESG 전략가"가 되기 위해 끊임없이 도전하고 있습니다.
+
+---
+
+## 📬 Contact
+협업·프로젝트·세미나 발표 등 제안은 언제든 환영합니다.
+[sej1004s@naver.com](mailto:sej1004s@naver.com)
