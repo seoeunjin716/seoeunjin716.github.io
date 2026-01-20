@@ -3,7 +3,6 @@ title: "2025 새싹 해커톤 장려상 수상 - IFRSseed AI"
 date: 2025-12-02T00:00:00+09:00
 categories:
   - 수상이력
-  - 해커톤
 tags:
   - 새싹해커톤
   - IFRSseed

@@ -3,7 +3,6 @@ title: "2025 조달청 홍보 아이디어 공모전 우수상 수상 - GreenLig
 date: 2025-12-17T00:00:00+09:00
 categories:
   - 수상이력
-  - 공모전
 tags:
   - 조달청
   - GreenLightProcure
